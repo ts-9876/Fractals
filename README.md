@@ -4,7 +4,7 @@ This repository showcases the beauty and complexity of fractals through computat
 
 - **Burning Ship Fractal**: A fractal with sharp, ship-like structures that emerges from iterative mapping.
 - **Julia Set**: A family of fractals related to the Mandelbrot set.
-- **Mandelbrot Set**: A famous fractal defined by the behavior of a simple quadratic map. My implementation computes the Lyapunov exponents of the Mandelbrot set.
+- **Mandelbrot Set**: A famous fractal defined by the behavior of a simple quadratic map. My implementation specifically computes the Lyapunov exponents of the Mandelbrot set.
 
 Exploring fractals interests my passion for mathematics, art, and computational science.
 
