@@ -8,6 +8,8 @@ This repository showcases the beauty and complexity of fractals through computat
 
 Exploring fractals interests my passion for mathematics, art, and computational science.
 
+More fractals to come in the future!
+
 ### Burning Ship Fractal:
 
 ![image](https://github.com/user-attachments/assets/76ea0ec2-ea26-4ca8-84fb-6b6fe8359b2d)
