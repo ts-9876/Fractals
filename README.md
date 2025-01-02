@@ -1,6 +1,6 @@
 # Fractal Explorations
 
-This repository showcases the beauty and complexity of fractals through computational visualizations. Fractals are not only a fascinating mathematical concept that are relevant to physics but also a personal hobby of mine:
+This repository showcases the beauty and complexity of fractals through computational visualizations. Fractals are not only a fascinating mathematical concept that are relevant to physics but also a personal hobby of mine.
 
 - **Burning Ship Fractal**: A fractal with sharp, ship-like structures that emerges from iterative mapping.
 - **Julia Set**: A family of fractals related to the Mandelbrot set.
